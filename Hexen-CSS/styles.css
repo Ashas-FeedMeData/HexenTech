@@ -1,0 +1,165 @@
+#title {
+    background-color: #72c5bd;
+    color: white;
+}
+
+/* .img1 {
+    position: absolute;
+    max-width: 100%;
+    max-height: 100%;
+} */
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+h1 { 
+    font-family: 'Tangerine', cursive;
+    font-size: 3.5rem;
+    font-weight: 900;
+    line-height: 1.5;
+    margin-top: 100px;
+}
+
+.ctnr-0 {
+    padding: 3% 15%;
+}
+
+
+/* Title Image */
+.img {
+    width: 60%;
+    position: relative;
+    margin-top: 85px;
+    margin-left: 25%;
+    
+}
+
+/* Buttons */
+.btn {
+    margin-top: 50px;
+    margin-right: 15px;
+}
+
+
+/* NAVBAR */
+.navbar-brand {
+    font-family: 'Architects Daughter', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    position: relative;
+    right: 16px;
+}
+
+.nav-item {
+    padding: 0 12px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+}
+
+.ctnr-1 {
+    display: inline-block;
+    padding: 5%;
+    position: relative;
+    text-align: center;
+    
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.fa-icon {
+    color: #84e6dc;
+    font-size: 50px;
+}
+
+.fa-icon:hover {
+    color: #72c5bd;
+}
+
+.feature-p {
+    color: #8f8f8f;
+}
+
+/* FEATURES SECTION */
+
+#features {
+    padding: 7% 15%;
+}
+
+/* Meet the Team */
+
+#testimonials {
+    color: white;
+    text-align: center;
+    background-color: #72c5bd;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+.test-img {
+    border-radius: 100%;
+    margin: 20px;
+    width: 15%;
+}
+
+/* PRESS */
+ #press {
+    background-color: #72c5bd;
+    padding-bottom: 3%;
+    text-align: center;
+ }
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+
+/* CAROUSEL */
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+/* PRICING */
+.ctnr2 {
+    padding: 3% 15%;
+}
+
+.ctnr4 {
+    padding: 3% 15%;
+    text-align: center;
+}
+
+/* CALL TO ACTION */
+
+.ctnr5 {
+    color: white;
+    background-color: #72c5bd;
+    padding: 3% 15%;
+}
+
+#footer {
+    background-color: #72c5bd;
+    padding: 3% 15%;
+}
+
+#footer {
+    font-family: 'Architects Daughter', sans-serif;
+}
